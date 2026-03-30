@@ -1,5 +1,5 @@
-.DS_Store
+node_modules/
+dist/
 build/
-*.xcuserdata
-*.xcworkspace
-DerivedData/
+.DS_Store
+.env
